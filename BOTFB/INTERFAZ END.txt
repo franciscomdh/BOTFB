@@ -1,0 +1,1 @@
+Cambiar la extension app.py por "app.pyw" para evitar que aparezca consola atras
